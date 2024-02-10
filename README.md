@@ -1,2 +1,2 @@
 # demo-app
-a demo app
+describe what this app can do
